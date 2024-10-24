@@ -46,10 +46,10 @@ To run this project locally, you will need:
 ## Screenshots
 
 ### Task List
-![Task List](./screenshots/task_list.png)
+![image](https://github.com/user-attachments/assets/a7a06eb6-1821-4203-82b5-24359e873791)
 
 ### Add New Task
-![Add New Task](./screenshots/add_task.png)
+![image](https://github.com/user-attachments/assets/8a9c8fbe-bdf2-43da-9900-9c4906c5ddcc)
 
 ## License
 
